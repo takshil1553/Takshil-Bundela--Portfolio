@@ -1,0 +1,18 @@
+{
+  "name": "joeokat.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeokat/joeokat.me.git"
+  },
+  "keywords": [],
+  "author": "Joshua Ofosu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeokat/joeokat.me/issues"
+  },
+  "homepage": "https://github.com/joeokat/joeokat.me#readme"
+}
