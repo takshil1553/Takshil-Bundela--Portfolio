@@ -1,3 +1,3 @@
-# joeokat.me
+# Takshil.me
 
 ### Portfolio under development
